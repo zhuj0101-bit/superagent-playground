@@ -2,6 +2,10 @@
 
 dsh-superagent 沙盒仓库，用于验证工单链路。
 
+## Usage
+
+This repository is a dsh-superagent sandbox for validating the ticket workflow.
+
 ## 工作方式
 
 在这个仓库发 Issue 或 @zhuj0101-bit，agent 会判定并开一张工单，
